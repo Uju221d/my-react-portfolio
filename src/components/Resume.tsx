@@ -144,7 +144,7 @@ export default function Resume() {
             </div>
 
             {/* Certifications */}
-            {/* <div>
+            <div>
               <h4 className="font-heading font-extrabold text-slate-800 text-xs sm:text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <Award className="w-4.5 h-4.5 text-brand-teal" />
                 <span>Certifications</span>
@@ -161,7 +161,7 @@ export default function Resume() {
                   </div>
                 ))}
               </div>
-            </div> */}
+            </div>
 
           </div>
 
